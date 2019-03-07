@@ -1,0 +1,69 @@
+{
+  "uuid": "65a35a65-dc0c-4590-b96d-1a8e57b0c3f3",
+  "name": "Bot_KP_4",
+  "description": "sample bot KP 4",
+  "dashboard_user_id": 636,
+  "company_id": 49,
+  "external_domain_uuid": "1905f7cc-4691-4aaf-a47e-7e5740a1bc7a",
+  "answer_sets": [
+    {
+      "answers": [
+        {
+          "messages": [
+            {
+              "content_type": "text",
+              "content": {
+                "value": "eight works",
+                "uuid": "ca8d2d04-f40f-4aef-b741-27b6885a6017"
+              }
+            }
+          ]
+        }
+      ],
+      "uuid": "69e14c9d-b393-4664-86e2-544c2af14820",
+      "name": "eight",
+      "training_data_sets": [
+
+      ],
+      "intent_uuid": "6c40bb17-fffd-4a40-ae4e-417e9eca27e2",
+      "training_data": [
+        {
+          "value": "eight",
+          "uuid": "15d68cd7-d66f-4636-8656-58bc2a082e6b"
+        }
+      ]
+    },
+    {
+      "answers": [
+        {
+          "messages": [
+            {
+              "content_type": "text",
+              "content": {
+                "value": "nine works",
+                "uuid": "89a2dfb3-41c9-4993-bf4f-1173f5191891"
+              }
+            }
+          ]
+        }
+      ],
+      "uuid": "db5997c0-1740-4e42-9061-13e94c18751f",
+      "name": "nine",
+      "training_data_sets": [
+
+      ],
+      "intent_uuid": "a49b8ae3-6bc7-42dd-ab5c-8a9cb8f31ed2",
+      "training_data": [
+        {
+          "value": "nine",
+          "uuid": "4b72284c-23ce-41c9-9a17-e82a9ed6e95b"
+        }
+      ]
+    }
+  ],
+  "intro_answer_set": null,
+  "outro_answer_set": null,
+  "language_packs": [
+
+  ]
+}

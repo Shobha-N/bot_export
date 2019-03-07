@@ -1,0 +1,96 @@
+{
+  "uuid": "00a10d1a-abcd-4350-bc17-03c7c8d4e4fd",
+  "name": "Bot_KP_1",
+  "description": "sample bot KP 1",
+  "dashboard_user_id": 636,
+  "company_id": 49,
+  "external_domain_uuid": "1905f7cc-4691-4aaf-a47e-7e5740a1bc7a",
+  "answer_sets": [
+    {
+      "answers": [
+        {
+          "messages": [
+            {
+              "content_type": "text",
+              "content": {
+                "value": "one works",
+                "uuid": "f0cbc568-a3e4-4a23-8f65-e26371cc81aa"
+              }
+            }
+          ]
+        }
+      ],
+      "uuid": "a9998bdd-b452-4637-ba24-13308f38656c",
+      "name": "one",
+      "training_data_sets": [
+
+      ],
+      "intent_uuid": "c5118c08-676c-407a-9f9a-947a53ed5bec",
+      "training_data": [
+        {
+          "value": "one",
+          "uuid": "8c453e97-5efe-4b9e-a00b-ae1bc3edaa38"
+        }
+      ]
+    },
+    {
+      "answers": [
+        {
+          "messages": [
+            {
+              "content_type": "text",
+              "content": {
+                "value": "two works",
+                "uuid": "d9a400a9-bad3-4b90-a992-266b73e1eb7c"
+              }
+            }
+          ]
+        }
+      ],
+      "uuid": "a9a2cd1e-35d8-451b-8ad9-a91b5f38a032",
+      "name": "two",
+      "training_data_sets": [
+
+      ],
+      "intent_uuid": "53a52f62-d0ae-455d-851e-1c999583d737",
+      "training_data": [
+        {
+          "value": "two",
+          "uuid": "6dc5947d-043e-48a5-a7a2-265d5efd119d"
+        }
+      ]
+    },
+    {
+      "answers": [
+        {
+          "messages": [
+            {
+              "content_type": "text",
+              "content": {
+                "value": "three works",
+                "uuid": "fd353aa5-bcd2-4f00-9900-7efc8a94f5af"
+              }
+            }
+          ]
+        }
+      ],
+      "uuid": "ce479e49-f595-4a07-8f8f-9e8fe0ab9182",
+      "name": "Three",
+      "training_data_sets": [
+
+      ],
+      "intent_uuid": "f5150645-86fb-4438-81bf-b692d11db9f8",
+      "training_data": [
+        {
+          "value": "Three",
+          "uuid": "dea7391f-6c8e-48ba-b1bc-1c65b917a033"
+        }
+      ]
+    }
+  ],
+  "intro_answer_set": null,
+  "outro_answer_set": null,
+  "language_packs": [
+
+  ]
+}

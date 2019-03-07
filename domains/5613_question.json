@@ -1,0 +1,145 @@
+{
+  "name": "Question",
+  "description": "Testing domain",
+  "key": "key",
+  "dashboard_user_id": 636,
+  "uuid": "1905f7cc-4691-4aaf-a47e-7e5740a1bc7a",
+  "company_id": 49,
+  "entities": [
+
+  ],
+  "test_data": [
+
+  ],
+  "intents": [
+    {
+      "name": "Analyst_q1",
+      "key": "key1",
+      "uuid": "b74ff839-e254-4fec-97f5-d73677649f1f",
+      "training_data": [
+        {
+          "value": "How do I make an email part of a deal",
+          "uuid": "49cba974-4054-404c-9e79-ae0ad29ad3e6"
+        },
+        {
+          "value": "How do I link an email to a deal",
+          "uuid": "554932b8-64aa-4418-b633-de488be682ad"
+        },
+        {
+          "value": "How do I connect an email with a deal",
+          "uuid": "850f2ce7-6e07-411d-84a0-8f2d5a39d7f6"
+        },
+        {
+          "value": "How do I connect an email to a deal",
+          "uuid": "c2033fe8-a3b4-4faa-acaa-9072ca667e43"
+        },
+        {
+          "value": "How do I put an email with a deal",
+          "uuid": "d68ae4cd-20a0-4cf7-9b29-3119ab4519b3"
+        },
+        {
+          "value": "How do I connect a deal to an email",
+          "uuid": "ea6f2574-f0ce-44ea-9c0f-804291eab379"
+        },
+        {
+          "value": "How do I link a deal to an email",
+          "uuid": "6d27ac7c-e4a8-4f9d-bfe7-1403187986f2"
+        },
+        {
+          "value": "Where can I assign an email to a deal",
+          "uuid": "a36e9480-657f-474b-ab4c-7348650f8d5d"
+        },
+        {
+          "value": "Where can I connect deals and emails",
+          "uuid": "a96268fe-ef59-4519-86f5-4f4fe5a256b6"
+        },
+        {
+          "value": "Where can I connect a deal to an email",
+          "uuid": "a87402c0-f206-4e3a-9832-6ba8ed97c171"
+        },
+        {
+          "value": "How do I allocate an email to a deal",
+          "uuid": "70cd097d-60ae-4a59-8c3e-a3eb540c28e7"
+        },
+        {
+          "value": "What does allocate to deal do",
+          "uuid": "e6497924-f3f1-4116-a900-49726ed2202b"
+        },
+        {
+          "value": "How do I allocate to deal",
+          "uuid": "162c4620-d094-45f0-9a22-d497f5cbc1c2"
+        }
+      ],
+      "training_data_sets": [
+        {
+          "id": 2174,
+          "language": null,
+          "training_data": [
+            {
+              "value": "email deal",
+              "uuid": "487a9011-bdc8-48a5-be3f-6fb66eabdbed",
+              "training_data": [
+
+              ]
+            }
+          ]
+        }
+      ],
+      "slots": [
+
+      ]
+    },
+    {
+      "name": "Analyst_q2",
+      "key": "key2",
+      "uuid": "17faa699-b9c5-4d09-b4c6-19ca2db482b7",
+      "training_data": [
+        {
+          "value": "What does unallocated mean",
+          "uuid": "2c941a56-4166-48bc-915c-87ac6b61496b"
+        },
+        {
+          "value": "Why does my teams mailbox have unallocated emails",
+          "uuid": "c9d5719a-150a-462c-b1b9-6931dfbbd408"
+        },
+        {
+          "value": "Unallocated",
+          "uuid": "c5a374bd-f1ba-4eac-bf4c-436940779861"
+        },
+        {
+          "value": "Un-allocated",
+          "uuid": "69f458b3-8435-4cad-8606-4981e54a7c7d"
+        },
+        {
+          "value": "Why are emails unallocated",
+          "uuid": "4f354d9a-78d2-4259-a53e-9fb0a3b0773f"
+        },
+        {
+          "value": "why are emalis unassigned",
+          "uuid": "32a542d9-6bc3-43c9-87cd-8fc53871a50b"
+        },
+        {
+          "value": "My Team's Un-allocated Emails",
+          "uuid": "91405e14-0aa7-44ab-b41a-67dd15d39a62"
+        },
+        {
+          "value": "why is it called My Team Un-allocated emails",
+          "uuid": "e8f5b31a-5147-4053-8831-07cc7f522f47"
+        },
+        {
+          "value": "How do I un allocate to deal",
+          "uuid": "2621c0d2-1c81-4905-ae85-b3ca8ec811d0"
+        }
+      ],
+      "training_data_sets": [
+
+      ],
+      "slots": [
+
+      ]
+    }
+  ],
+  "entity_relation_ships": [
+
+  ]
+}

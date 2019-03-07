@@ -1,0 +1,83 @@
+{
+  "id": 5121,
+  "uuid": "babb3f39-205c-41cd-b143-2712fc03d34f",
+  "description": "testing bot B",
+  "first_name": "Bot B",
+  "last_name": "",
+  "enable": true,
+  "bot_type": null,
+  "api_token": "ec36d03c8fe244429926b17b5c577c65",
+  "conversation_datum": {
+    "id": 5084,
+    "conversation_json": {
+      "nodes": [
+        {
+          "key": 1,
+          "messages": [
+            {
+              "content": {
+                "value": "Your greeting message goes here!",
+                "uuid": "c59a78f8-477c-49f4-b697-f5926827c490"
+              },
+              "content_type": "text"
+            }
+          ]
+        },
+        {
+          "key": "unhandled",
+          "messages_sets": [
+            [
+              {
+                "content": {
+                  "value": "I am sorry. I don't have an answer for that.",
+                  "uuid": "83e63798-94d2-4ab7-af94-0371f77a994d"
+                },
+                "content_type": "text",
+                "__gohashid": 45665
+              }
+            ]
+          ]
+        }
+      ],
+      "links": [
+        {
+          "from": 1,
+          "to": "unhandled"
+        }
+      ],
+      "settings": {
+        "agent": {
+          "enable": true,
+          "domain_intent_uuids": [
+            "ba7d77e9-4589-4029-b81f-6d923265eb0e",
+            "3c86185c-a804-48e6-a603-0991326b30fa"
+          ],
+          "failed_response_count": 3,
+          "messages": {
+          }
+        }
+      },
+      "common_js_code_uuid": "cj_37cacd52-bc10-4578-8299-c366e9115cc9"
+    }
+  },
+  "knowledge_pack_ids": [
+    1853,
+    1856,
+    1857
+  ],
+  "child_bot_ids": [
+
+  ],
+  "menu": "expanded",
+  "domain_id": 5613,
+  "domain_uuid": "1905f7cc-4691-4aaf-a47e-7e5740a1bc7a",
+  "actions": [
+
+  ],
+  "language_packs": [
+
+  ],
+  "phone_hint_packs": [
+
+  ]
+}

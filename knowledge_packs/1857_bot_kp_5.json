@@ -1,0 +1,69 @@
+{
+  "uuid": "66eaf096-8856-467c-aa4b-d7041b63403e",
+  "name": "Bot_KP_5",
+  "description": "sample bot KP 5",
+  "dashboard_user_id": 636,
+  "company_id": 49,
+  "external_domain_uuid": "1905f7cc-4691-4aaf-a47e-7e5740a1bc7a",
+  "answer_sets": [
+    {
+      "answers": [
+        {
+          "messages": [
+            {
+              "content_type": "text",
+              "content": {
+                "value": "ten works",
+                "uuid": "e1dadf6c-3588-4bea-838c-7cd4f71652a5"
+              }
+            }
+          ]
+        }
+      ],
+      "uuid": "643d6e3b-0939-4714-bbfb-e0c1b6c157e6",
+      "name": "ten",
+      "training_data_sets": [
+
+      ],
+      "intent_uuid": "a605dbfb-58ab-42b0-b99f-71293612f293",
+      "training_data": [
+        {
+          "value": "ten",
+          "uuid": "e8d0d706-290a-4f91-ba87-3979a0fab2eb"
+        }
+      ]
+    },
+    {
+      "answers": [
+        {
+          "messages": [
+            {
+              "content_type": "text",
+              "content": {
+                "value": "eleven works",
+                "uuid": "85546543-3e45-4005-b0f8-1c019396b600"
+              }
+            }
+          ]
+        }
+      ],
+      "uuid": "0b3c1adf-0fd4-44fe-b124-64edbf5ee2d0",
+      "name": "eleven",
+      "training_data_sets": [
+
+      ],
+      "intent_uuid": "dcf0db84-ed72-45d7-93de-46a3e1cff74b",
+      "training_data": [
+        {
+          "value": "eleven",
+          "uuid": "d1b0d6a9-245d-4ce8-bd6b-1c91f2877563"
+        }
+      ]
+    }
+  ],
+  "intro_answer_set": null,
+  "outro_answer_set": null,
+  "language_packs": [
+
+  ]
+}
